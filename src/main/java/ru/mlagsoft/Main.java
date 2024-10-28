@@ -117,12 +117,8 @@ public class Main {
 
 
     public static void main(String[] args) throws IOException {
-        //   String[] argument = args;
-        new Main();
-      /*  if (!(argument.length <= 0)) {
 
-        }*/
-
+        new Window();
 
     }
 }
